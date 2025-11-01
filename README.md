@@ -20,7 +20,7 @@ I enjoy working across the full lifecycle — from **designing APIs and microser
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-☕ Java (8 / 11) • 🐍 Python • ⚡ JavaScript • 💾 SQL / NoSQL  
+☕ Java  • 🐍 Python • ⚡ JavaScript • 💾 SQL / NoSQL  
 
 **Frameworks & Tools:**  
 Spring Boot • Hibernate • Kafka • React • Node.js • REST APIs • Microservices  
