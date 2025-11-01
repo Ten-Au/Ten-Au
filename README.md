@@ -17,27 +17,7 @@ I enjoy working across the full lifecycle — from **designing APIs and microser
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages:**  
-☕ Java  • 🐍 Python • ⚡ JavaScript • 💾 SQL / NoSQL  
-
-**Frameworks & Tools:**  
-Spring Boot • Hibernate • Kafka • React • Node.js • REST APIs • Microservices  
-
-**DevOps & Cloud:**  
-Docker • Kubernetes • Jenkins • OpenShift • Terraform • ArgoCD • CI/CD Pipelines  
-AWS • Azure • Google Cloud Platform  
-
-**Databases:**  
-MySQL • PostgreSQL • MongoDB • Firebase  
-
-**Other:**  
-JUnit • Mockito • Selenium • Git • Jira • Confluence  
-
----
-
-## 🧩 Projects & Highlights  
+## 🧩 Work Projects & Highlights  
 
 🔹 **Enterprise Banking Software @ BEC Financial Technologies**  
 Developed and maintained business applications used by 30+ financial institutions.  
