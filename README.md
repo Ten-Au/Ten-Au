@@ -42,13 +42,3 @@ Developing an interactive VR training simulation based on NASA’s Lunar Gateway
 📚 Learning — always working on mastering new tools, languages, and frameworks  
 
 ---
-
-## 📫 Connect with Me  
-
-📧 [tenaubris@gmail.com](mailto:tenaubris@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/azamat-maraimbekov-299660238)  
-💻 [GitHub](https://github.com/Ten-Au)  
-
----
-
-⭐ _“Technology is best when it brings people together — and I build with that purpose in mind.”_  
